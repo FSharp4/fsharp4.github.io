@@ -4,8 +4,6 @@ author: me
 title: Control Systems (1/3) - Introduction
 ---
 
-# Control Systems
-
 Control systems are everywhere - your computers, your cars, your buildings, and your daily routines. The conspiracy even goes so deep as to include yourself! 
 
 Now, before you ask "*why would I make such a bold conspiracy theory?*" (or "*why would I use such a clickbait hook?*") I should explain what control systems are. If that sounds like a boring topic, I'm hoping that dreadful hook will suspend your disinterest for at least a few more sentences.
