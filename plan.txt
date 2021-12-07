@@ -1,0 +1,22 @@
+1: Introducing control systems:
+- What, when, where, why, how
+- Control systems theory, applications
+- Control systems examples in real life
+
+2: History of Control
+- Different Sectors
+- Historical Examples
+- Historical Techniques
+
+3. Computers and Modern-day Control Research
+
+4. Simple Control Building Blocks
+- Defining frequency response
+- Introducing Fourier Transforms & whatnot (Frequency Functions!)
+- Introduce LTI terminology
+- Introduce Filtering
+- Illustrating Convergence (& what it means in real life), steady state, delay...
+
+5. Basic Control Systems Examples
+- Open Loop Control Systems (Traffic Signals!)
+- Closed Loop Control (Thermostat, Cruise Control)
