@@ -24,7 +24,7 @@ Let's say that the elevator started at the ground floor, so it opens immediately
 | 5 | 7 (*you have a pretty fast elevator*) |
 | ... | ... |
 
-![Elevator Graph](../assets/images/Elevator.png)
+![Elevator Graph](assets/images/Elevator.png)
 
 Now that I've over-illustrated my example, I can say that an elevator is a very approachable control system. Here, we gave it an input of 1 by calling it at the bottom floor, and since it was already there the control system didn't have to do anything. Then, we gave it an input of 37, and it brought us there comfortably. Some things to consider:
 - *This example is suspiciously good. Where did you get it from?* This was inspired by a textbook called *Control Systems Engineering* by Norman S. Nise. The numbers are my own creation, rest assured.
