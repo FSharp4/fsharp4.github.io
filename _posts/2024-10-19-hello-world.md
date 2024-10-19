@@ -3,7 +3,7 @@ layout: post
 title: Hello, World
 date: 2024-10-19 08:00:00
 description: Placeholder Post
-tags: formatting links
+tags: minecraft
 categories: sample-posts
 ---
 
