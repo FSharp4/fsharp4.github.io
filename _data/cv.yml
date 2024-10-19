@@ -2,96 +2,144 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jacob Peterson
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th September 1999
     - name: Languages
-      value: English, German
+      value: English, French, Spanish, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - title: M.S.
+      institution: University of Southern California, Los Angeles, USA
+      year: 2026
+      description: 
+        - Electrical Engineering (VLSI Design)
+        - title: Present Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+            - title: EE 457
+              contents: Computer Systems Organization
+            - title: EE 477
+              contents: MOS VLSI Circuit Design
+        - title: Goals
+          contents:
+            - Excellence in physical layout and RTL design skillsets
+            - CPU/GPU Design + Optimization
+            - Directed Research
+    - title: B. Eng
+      institution: McGill University
       year: 1900
       description:
-        - Description 1.
-        - Description 2.
+        - title: CGPA
+          contents: 3.69
+        - title: Specialization
+          contents:
+            - Computer Architecture
+            - Digital Signal Processing
+            - Machine Learning
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Electrical Design Engineer
+      institution: Emerson
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Responsibilities
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Analog Electronics Design on Rosemount Pressure & Temperature 
+              transmitters
+            - Component, PCB, and product testing against internal, EMC, and 
+              EN/IEC standards
+            - Test Automation Development (HART, IVI-VISA, C#, Python, LabVIEW)
+        - title: Skillsets & Tools
+            - Circuit Schematic Capture & PCB Layout using Cadence Allegro System Capture
+            - Circuit Simulation using LTSPICE
+            - Electrical Engineering collaboration on physical products
+        - title: Highlights
+            - Developed HART python framework for company products to replace 
+              legacy software stacks, reducing install burden from several 
+              packages to basic serial port functionality
+            - Designed PCB test fixtures for finals qualification the 2100 
+              Liquid Level Switch line, reducing downtime and technician burden
+            - Created flexible VISA controller scripts leveraging Python 
+              multiprocessing to enable parallel automations on standard 
+              engineering testbenches
+            - Coordinated major ASIC replacement efforts on a core product 
+              line, reducing project length from 3 months to 1 month
+    - title: Research Intern 
+      institution: Galois/Adventium Labs
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Responsibilities
+          contents:
+            - Development of Model-Based Systems Engineering (MBSE) workflows 
+              and toolkits
+            - Front-End Interface design for MBSE flows
+            - Project requirements capture & documentation shepherd
+        - title: Skillsets & Tools
+          content:
+            - Software Engineering
+            - Version Control
+            - Eclipse, IntelliJ
+            - Java, Scala, Javascript, MATLAB, Python + Django, AADL, UML, SQL...
+    - title: Volunteer Student Notetaker
+      year: 2019-2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Wrote lecture notes for the 
+          <a href="https://www.mcgill.ca/access-achieve/exams-accommodations/accommodations/note-sharing">
+            Notesharing program led by Student Accessibility and Achievement at 
+            McGill
+          </a>
+        - Covered 9 courses over six semesters
+    - title: Peer Math Tutor
+      year: 2016-2018
+      description:
+        - Led 1-on-1 and small group tutoring sessions on high-school 
+          mathematics for fellow high school students
+        - Specialized in tutoring upper-level mathematics (including IB SL/HL 
+          and AP Calc, Stats courses)
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: <a href="https://github.com/Yaters/Microprocessor_Tetrominos">Yaters/Microprocessor_Tetrominos</a>
+      year: 2022
+      description: A tetris-style videogame port implemented for STM32L4 board
+    - title: <a href="https://github.com/FSharp4/ecseclusterpy">FSharp4/ecseclusterpy</a>
+      year: 2022
+      description: 
+        - Ward's-based biclustering method & Bayesian methods for automated 
+          dendrogram cuts.
+        - Work was presented as an undergraduate thesis project in Nov. 2023
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Honour's Electrical Engineering Program Admission
+    - year: 2018
       items:
-        - Max Planck Medal
+        - CCOM 206 Best Paper finalist
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Telecommunications
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Pilot Decontamination in 5G networks
+        - Massive MIMO Symbol Detection
+    - Electronics Design Automation in VLSI
+    - Hardware-software co-design
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Machine Learning & Natural Language Processing (as a hobbyist practitioner)
+    - Parallel programming (particularly CUDA and non-NVIDIA counterparts)
+    - Building Computers
+    - Running
+    - Piano (Classical, Jazz)
+    - Language learning
+    - Minecraft

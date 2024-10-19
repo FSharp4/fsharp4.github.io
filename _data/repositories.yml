@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fsharp4
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Yaters/Microprocessor_Tetrominos
+  - mcgill-ecse211-w20/Autonomous-Search-and-Rescue-Robot
+  - FSharp4/numerical-methods
+  - FSharp4/ecseclusterpy
+  - FSharp4/adaptive-bandstop

@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#   color: "#009f36"
+
+"IEEE VTC":
+  url: https://events.vtsociety.org/vtc2024-fall/
+  color: "#1e2f41"
