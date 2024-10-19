@@ -1,7 +1,7 @@
 "tolu":
-- firstname: ["Tolu", "T.", "Toluwaleke", "Toluwaleke Olutayo"]
-  url: https://www.ece.mcgill.ca/~bchamp/research_team.html
+  - firstname: ["Tolu", "T.", "Toluwaleke", "Toluwaleke Olutayo"]
+    url: https://www.ece.mcgill.ca/~bchamp/research_team.html
 
 "benoit":
-- firstname: ["Benoit", "B.", "Benoit Champagne"]
-  url: https://www.ece.mcgill.ca/~bchamp/index.html
+  - firstname: ["Benoit", "B.", "Benoit Champagne"]
+    url: https://www.ece.mcgill.ca/~bchamp/index.html

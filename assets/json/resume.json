@@ -77,13 +77,7 @@
       "startDate": "2018-08-27",
       "endDate": "2022-12-04",
       "score": "3.69/4.00",
-      "courses": [
-        "Machine Learning", 
-        "Numerical Methods", 
-        "Computer Architecture",
-        "Microprocessors",
-        "Digital Signal Processing"
-      ]
+      "courses": ["Machine Learning", "Numerical Methods", "Computer Architecture", "Microprocessors", "Digital Signal Processing"]
     }
   ],
   "awards": [
@@ -130,27 +124,13 @@
       "name": "RTL Design",
       "level": "Highly Proficient",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Questasim/Modelsim",
-        "Verilog/VHDL",
-        "Pipelining",
-        "CPU Design",
-        "MIPS ISA",
-        "TCL Testbenches"
-      ]
+      "keywords": ["Questasim/Modelsim", "Verilog/VHDL", "Pipelining", "CPU Design", "MIPS ISA", "TCL Testbenches"]
     },
     {
       "name": "Programming",
       "level": "Highly Proficient",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Python",
-        "Java",
-        "C/C++",
-        "MATLAB",
-        ".NET/C#",
-        "Object-Oriented Programming"
-      ]
+      "keywords": ["Python", "Java", "C/C++", "MATLAB", ".NET/C#", "Object-Oriented Programming"]
     }
   ],
   "languages": [
@@ -179,21 +159,12 @@
     {
       "name": "Telecommunications & Signal Processing",
       "icon": "fa-solid fa-tower-cell",
-      "keywords": [
-        "Pilot Decontamination",
-        "5G Networks",
-        "MIMO Networks",
-        "MIMO Symbol Detection"
-      ]
+      "keywords": ["Pilot Decontamination", "5G Networks", "MIMO Networks", "MIMO Symbol Detection"]
     },
     {
       "name": "Electronics Design Automation",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Routing",
-        "Algorithms",
-        "Monte-Carlo"
-      ]
+      "keywords": ["Routing", "Algorithms", "Monte-Carlo"]
     }
   ],
   "references": [],

@@ -22,20 +22,21 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Bonjour/Hi! I'm Jake Peterson, presently a Graduate Student of Electrical 
-Engineering at the University of Southern California. My focus and passion lies 
-with VLSI design, both backend (studying CMOS schematic capture + physical 
-layout using Cadence Virtuoso) and frontend (RTL design, Verilog using Siemens 
+Bonjour/Hi! I'm Jake Peterson, presently a Graduate Student of Electrical
+Engineering at the University of Southern California. My focus and passion lies
+with VLSI design, both backend (studying CMOS schematic capture + physical
+layout using Cadence Virtuoso) and frontend (RTL design, Verilog using Siemens
 Questasim).
 
 Prior (engineering) lives:
-- I acquired a Bachelor's of Engineering in Electrical Engineering through the 
-  Honour's program at McGill University (in Montreal, Quebec), where I 
-  specialized in **Computer Architecture**, **Machine Learning**, and 
+
+- I acquired a Bachelor's of Engineering in Electrical Engineering through the
+  Honour's program at McGill University (in Montreal, Quebec), where I
+  specialized in **Computer Architecture**, **Machine Learning**, and
   **Digital Signal Processing**.
-- After McGill, I briefly became an Electrical Design Engineer at Emerson (in 
-  Shakopee, MN), designing and testing Rosemount Pressure Temperature 
-  transmitters, and working to develop test automation software in C# and 
+- After McGill, I briefly became an Electrical Design Engineer at Emerson (in
+  Shakopee, MN), designing and testing Rosemount Pressure Temperature
+  transmitters, and working to develop test automation software in C# and
   Python to work with IVI-VISA and HART communication protocols.
 
 Thank you for visiting my website!

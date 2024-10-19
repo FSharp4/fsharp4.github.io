@@ -7,7 +7,7 @@ tags: minecraft
 categories: sample-posts
 ---
 
-I just stood this website up, so I don't have enough leftover energy to produce 
+I just stood this website up, so I don't have enough leftover energy to produce
 meaningful content here. In the meantime:
 
 ```java

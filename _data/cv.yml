@@ -14,7 +14,7 @@
     - title: M.S.
       institution: University of Southern California, Los Angeles, USA
       year: 2026
-      description: 
+      description:
         - Electrical Engineering (VLSI Design)
         - title: Present Coursework
           contents:
@@ -48,9 +48,9 @@
       description:
         - title: Responsibilities
           contents:
-            - Analog Electronics Design on Rosemount Pressure & Temperature 
+            - Analog Electronics Design on Rosemount Pressure & Temperature
               transmitters
-            - Component, PCB, and product testing against internal, EMC, and 
+            - Component, PCB, and product testing against internal, EMC, and
               EN/IEC standards
             - Test Automation Development (HART, IVI-VISA, C#, Python, LabVIEW)
         - title: Skillsets & Tools
@@ -58,23 +58,23 @@
             - Circuit Simulation using LTSPICE
             - Electrical Engineering collaboration on physical products
         - title: Highlights
-            - Developed HART python framework for company products to replace 
-              legacy software stacks, reducing install burden from several 
-              packages to basic serial port functionality
-            - Designed PCB test fixtures for finals qualification the 2100 
-              Liquid Level Switch line, reducing downtime and technician burden
-            - Created flexible VISA controller scripts leveraging Python 
-              multiprocessing to enable parallel automations on standard 
-              engineering testbenches
-            - Coordinated major ASIC replacement efforts on a core product 
-              line, reducing project length from 3 months to 1 month
-    - title: Research Intern 
+            - Developed HART python framework for company products to replace
+            legacy software stacks, reducing install burden from several
+            packages to basic serial port functionality
+            - Designed PCB test fixtures for finals qualification the 2100
+            Liquid Level Switch line, reducing downtime and technician burden
+            - Created flexible VISA controller scripts leveraging Python
+            multiprocessing to enable parallel automations on standard
+            engineering testbenches
+            - Coordinated major ASIC replacement efforts on a core product
+            line, reducing project length from 3 months to 1 month
+    - title: Research Intern
       institution: Galois/Adventium Labs
       year: 2020-2022
       description:
         - title: Responsibilities
           contents:
-            - Development of Model-Based Systems Engineering (MBSE) workflows 
+            - Development of Model-Based Systems Engineering (MBSE) workflows
               and toolkits
             - Front-End Interface design for MBSE flows
             - Project requirements capture & documentation shepherd
@@ -87,18 +87,18 @@
     - title: Volunteer Student Notetaker
       year: 2019-2022
       description:
-        - Wrote lecture notes for the 
+        - Wrote lecture notes for the
           <a href="https://www.mcgill.ca/access-achieve/exams-accommodations/accommodations/note-sharing">
-            Notesharing program led by Student Accessibility and Achievement at 
-            McGill
+          Notesharing program led by Student Accessibility and Achievement at
+          McGill
           </a>
         - Covered 9 courses over six semesters
     - title: Peer Math Tutor
       year: 2016-2018
       description:
-        - Led 1-on-1 and small group tutoring sessions on high-school 
+        - Led 1-on-1 and small group tutoring sessions on high-school
           mathematics for fellow high school students
-        - Specialized in tutoring upper-level mathematics (including IB SL/HL 
+        - Specialized in tutoring upper-level mathematics (including IB SL/HL
           and AP Calc, Stats courses)
 
 - title: Open Source Projects
@@ -109,8 +109,8 @@
       description: A tetris-style videogame port implemented for STM32L4 board
     - title: <a href="https://github.com/FSharp4/ecseclusterpy">FSharp4/ecseclusterpy</a>
       year: 2022
-      description: 
-        - Ward's-based biclustering method & Bayesian methods for automated 
+      description:
+        - Ward's-based biclustering method & Bayesian methods for automated
           dendrogram cuts.
         - Work was presented as an undergraduate thesis project in Nov. 2023
 - title: Honors and Awards
