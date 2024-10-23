@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>He/Him. I go by Jake. You may know me as FSharp4.</em>
+subtitle: <em>He/Him. I go by Jake.</em>
 
 profile:
   align: right
