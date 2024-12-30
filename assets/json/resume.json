@@ -178,8 +178,8 @@
       "url": "https://fsharp4.github.io/blog/2024/matmul-systolic-arrays/"
     },
     {
-      "name": "Pipelined MIPS CPU Development",
-      "summary": "RTL Design of a MIPS CPU in Verilog for EE 457 (Computer Systems Organization) at USC. Project executed in increments as in-course lab activities.",
+      "name": "Pipelined CPU Development",
+      "summary": "RTL Design of a proof-of-concept CPU in Verilog for EE 457 (Computer Systems Organization) at USC. Project executed in increments as in-course lab activities.",
       "highlights": ["Verilog", "Cache Design", "MIPS ISA"],
       "startDate": "2024-09-01",
       "endDate": "2024-12-31",
