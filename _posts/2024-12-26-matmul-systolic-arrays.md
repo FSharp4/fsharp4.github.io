@@ -418,6 +418,22 @@ Matrix multiplier layout:
 
 ![Matrix multiplier layout](/assets/img/samm/matrixmultiplier.jpg){:width="100%"}
 
+These multipliers use the internal multiplexers to expose their results.
+When the internal MAC sum finishes accumulating products:
+1. At that cycle, the processing element receives `sel=0`.
+2. This signal is registered, and at the next clock cycle appears as 
+   `sel_reg=0`.
+3. When `sel_reg=0`, the multiplexer exposes the MAC sum on the `sum_out` pins 
+   for that column of processing elements.
+
+This produces a "diamond" of results: one cycle after the last inputs of the 
+first column and first row are sent, the MAC sum of the top left processing 
+element is displayed on `sum_out`. In next cycle, the processing elments to the 
+bottom and right will display their MAC sums on their respective `sum_out` 
+lines. This continues until, six clock cycles after the first sum is produced, 
+the last MAC sum (from the bottom right procesisng element) is displayed on 
+the `sum_out` pins of the last column. 
+
 Now that we've constructed a prototype for our final project, there remains the 
 need to test it. Our course's initial workflow of defining stimuli within 
 [Virtuoso's built-in stimuli editor](https://community.cadence.com/cadence_blogs_8/b/cic/posts/virtuosity-creating-and-previewing-stimuli)

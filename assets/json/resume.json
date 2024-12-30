@@ -170,17 +170,17 @@
   "references": [],
   "projects": [
     {
+      "name": "Systolic Array Matrix Multiplication",
+      "summary": "Design Project for EE 477 (MOS VLSI Circuit Design). Efficient 4x4 4-bit unsigned integer multiplication using CMOS and TG logic.",
+      "highlights": ["CMOS", "Transmission Gates", "Cadence Virtuoso", "Schematic Capture", "Physical Layout", "Timing Optimization"],
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-31",
+      "url": "https://fsharp4.github.io/blog/2024/matmul-systolic-arrays/"
+    },
+    {
       "name": "Pipelined MIPS CPU Development",
       "summary": "RTL Design of a MIPS CPU in Verilog for EE 457 (Computer Systems Organization) at USC. Project executed in increments as in-course lab activities.",
       "highlights": ["Verilog", "Cache Design", "MIPS ISA"],
-      "startDate": "2024-09-01",
-      "endDate": "2024-12-31",
-      "url": ""
-    },
-    {
-      "name": "Efficient Adder MOS Development",
-      "summary": "Design Project Labs for EE 477 (MOS VLSI Circuit Design). Efficient multibit RCA and CBA adders using CMOS and TG logic to produce fast results in space-efficient layouts",
-      "highlights": ["CMOS", "Transmission Gates", "Cadence Virtuoso", "Schematic Capture", "Physical Layout", "Timing Optimization"],
       "startDate": "2024-09-01",
       "endDate": "2024-12-31",
       "url": ""
