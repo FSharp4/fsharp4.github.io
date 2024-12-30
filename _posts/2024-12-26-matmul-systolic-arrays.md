@@ -428,10 +428,10 @@ When the internal MAC sum finishes accumulating products:
 
 This produces a "diamond" of results: one cycle after the last inputs of the 
 first column and first row are sent, the MAC sum of the top left processing 
-element is displayed on `sum_out`. In next cycle, the processing elments to the 
+element is displayed on `sum_out`. In next cycle, the processing elements to the 
 bottom and right will display their MAC sums on their respective `sum_out` 
 lines. This continues until, six clock cycles after the first sum is produced, 
-the last MAC sum (from the bottom right procesisng element) is displayed on 
+the last MAC sum (from the bottom right processing element) is displayed on 
 the `sum_out` pins of the last column. 
 
 Now that we've constructed a prototype for our final project, there remains the 
@@ -582,7 +582,7 @@ Having gone through the project, these are our lessons learned:
    difficulty sharing our work with each other that could have been reduced 
    with version control (such as `git`, perhaps) and decisions on project 
    setup. (We all contributed our work on different projects, so the hierarchy 
-   we produced spidered across several libraries of standard cells.) One 
+   we produced required several libraries of standard cells.) One 
    "project" library and as few "dependency" libraries as possible would have 
    served us best.
 4. **Work reviews**: When we complete major milestones it pays off to do quick 
