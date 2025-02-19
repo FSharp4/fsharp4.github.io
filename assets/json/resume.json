@@ -102,7 +102,7 @@
       "name": "A Triangular Lattice Framework for Massive MIMO Pilot Decontamination Schemes",
       "publisher": "IEEE VTC, Fall 2024",
       "releaseDate": "2024-10-10",
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/document/10757526",
       "summary": "This paper proposes a distributed framework for simplifying smart pilot signal assignment in cellular massive Multiple-Input Multiple-Output (MIMO) networks that aims to reduce the complexity of pilot decontamination that comes with high cell count."
     }
   ],
