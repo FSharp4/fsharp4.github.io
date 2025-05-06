@@ -66,7 +66,8 @@
       "studyType": "MS",
       "startDate": "2024-08-26",
       "endDate": "2026-05-15",
-      "courses": ["Computer Systems Organization", "MOS VLSI Design"]
+      "score": "4.00/4.00",
+      "courses": ["Computer Systems Organization", "MOS VLSI Circuits & Systems Design", "Algorithms Analysis"]
     },
     {
       "institution": "Department of Electrical and Computer Engineering, McGill University",
@@ -108,16 +109,15 @@
   ],
   "skills": [
     {
-      "name": "CMOS Design & Physical Layout",
+      "name": "VLSI Design & Physical Layout",
       "level": "Highly Proficient",
       "icon": "fa-solid fa-atom",
       "keywords": [
         "Cadence Virtuoso",
-        "Schematic Capture",
-        "Physical Layout",
-        "Post-Layout Simulations",
+        "Synopsys PrimeTime",
+        "SKILL Automation",
         "Functional Verification",
-        "Short-Channel Effects"
+        "Timing Closure & Optimization"
       ]
     },
     {
@@ -169,6 +169,22 @@
   ],
   "references": [],
   "projects": [
+    {
+      "name": "SKILL-Automated SRAM Circuit Construction",
+      "summary": "Design Project for EE 577A (VLSI Design). Automated construction of compact SRAM circuit layouts using SKILL",
+      "highlights": ["SKILL", "Read/Write Assists", "Design Optimization", "Logical Effort", "Timing Optimization"],
+      "startDate": "2025-03-24",
+      "endDate": "2025-04-18",
+      "url": ""
+    },
+    {
+      "name": "VCSVGenie",
+      "summary": "Open-Source Transient Analysis Framework for Cadence Virtuoso VCSV files, written in Python",
+      "highlights": ["Measurement Automation", "Delay Estimation", "Python", "Propagation Delays & Transition Times", "Design Optimization"],
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "url": "https://github.com/FSharp4/vcsvgenie"
+    },
     {
       "name": "Systolic Array Matrix Multiplication",
       "summary": "Design Project for EE 477 (MOS VLSI Circuit Design). Efficient 4x4 4-bit unsigned integer multiplication using CMOS and TG logic.",
