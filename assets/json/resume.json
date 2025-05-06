@@ -112,13 +112,7 @@
       "name": "VLSI Design & Physical Layout",
       "level": "Highly Proficient",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Cadence Virtuoso",
-        "Synopsys PrimeTime",
-        "SKILL Automation",
-        "Functional Verification",
-        "Timing Closure & Optimization"
-      ]
+      "keywords": ["Cadence Virtuoso", "Synopsys PrimeTime", "SKILL Automation", "Functional Verification", "Timing Closure & Optimization"]
     },
     {
       "name": "RTL Design",
